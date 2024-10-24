@@ -6,7 +6,6 @@ import leaf from "../../Assets/Projects/leaf.png";
 import qodehr from "../../Assets/Projects/qodehr.png";
 import ethSendAndSwap from "../../Assets/Projects/eth-send-and-swap.png";
 import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import bingo from "../../Assets/Projects/bingo.png";
 
 function Projects() {
@@ -40,7 +39,6 @@ Context API, Chat Engine, REST API’s."
               title="Eth Send & Swap"
               description="Developed an innovative React blockchain DApp (Decentralized App) with ethers.js and
 Uniswap v3 SDK on Ethereum’s different networks. Implemented a swap feature for various ERC20 tokens."
-              ghLink="https://github.com/MoFahimKh/my-wallet-app"
               demoLink="https://send-and-swap-tokens-app.netlify.app/"
             />
           </Col>
@@ -52,7 +50,6 @@ Uniswap v3 SDK on Ethereum’s different networks. Implemented a swap feature fo
               title="Bingo Blockchain Game"
               description="Constructed a real-time blockchain bingo game designed using React.js, Ethers.js,
 Context API, JS, and a Solidity smart contract. Key Learnings: Signing and querying blockchain data."
-              ghLink="https://github.com/MoFahimKh/bnb-wallet-app"
               demoLink="https://bingo-game-dapp.netlify.app/"
             />
           </Col>
@@ -63,7 +60,6 @@ Context API, JS, and a Solidity smart contract. Key Learnings: Signing and query
               isBlog={false}
               title="QodeHR"
               description="Built an Employee Management System using MVC architecture with Node.js, Express.js, Nanodb, Sequelize, EJS & JS. Key Learnings: Database design, routing, environment variables, templating engines & REST APIs"
-              ghLink="https://github.com/m-fahim-kh/employee-management-system/tree/employee-management-system"
               demoLink="https://qodeHR.onrender.com/"
             />
           </Col>
@@ -74,7 +70,6 @@ Context API, JS, and a Solidity smart contract. Key Learnings: Signing and query
               isBlog={false}
               title="Plant AI"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
